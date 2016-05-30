@@ -1,12 +1,9 @@
 {
-	"pris": [{
-		"prisFor": "Vægareal",
+	"pris": [{"prisFor": "Vægareal",
 		"beloeb": 10
-	}, {
-		"prisFor": "Gulvareal",
+	}, {"prisFor": "Gulvareal",
 		"beloeb": 20
-	}, {
-		"prisFor": "Træværk",
+	}, {"prisFor": "Træværk",
 		"beloeb": 30
 	}]
 }
