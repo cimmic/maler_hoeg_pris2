@@ -1,7 +1,12 @@
 {
-    "pris":[
-        {"prisFor":"Vægareal", "beloeb":10}, 
-        {"prisFor":"Gulvareal", "beloeb":20},
-        {"prisFor":"Træværk", "beloeb":30},
-    ]
+	"pris": [{
+		"prisFor": "Vægareal",
+		"beloeb": 10
+	}, {
+		"prisFor": "Gulvareal",
+		"beloeb": 20
+	}, {
+		"prisFor": "Træværk",
+		"beloeb": 30
+	}]
 }
