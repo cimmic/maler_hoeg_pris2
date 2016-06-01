@@ -1,11 +1,9 @@
 {
 	"pris": [{"prisFor": "Vægareal",
-		"beloeb": 1
+		"beloeb": 10
 	}, {"prisFor": "Gulvareal",
 		"beloeb": 20
 	}, {"prisFor": "Træværk",
 		"beloeb": 30
-	}, {"prisFor": "adder",
-		"beloeb": 100
 	}]
 }
